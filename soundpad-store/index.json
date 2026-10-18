@@ -33,6 +33,15 @@
       "file": "sounds/boom.wav",
       "sha256": "A6A4312F314E3D3EB6095DA17C6CC193DFC67D56A362E38558E7F910C2B6AEBF",
       "duration": 0.8
+    },
+    {
+      "id": "mellstroy-rozovyy-hamam",
+      "name": "Mellstroy - Розовый Хамам",
+      "author": "nixtand",
+      "tags": [],
+      "file": "sounds/mellstroy-rozovyy-hamam.mp3",
+      "sha256": "BC820BEC4A67820223CD2BA2E17361EC6A38A1C331880BF611921100506EC6E5",
+      "duration": 16.74
     }
   ]
 }
