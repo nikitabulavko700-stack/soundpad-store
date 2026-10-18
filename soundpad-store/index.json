@@ -42,6 +42,15 @@
       "file": "sounds/mellstroy-rozovyy-hamam.mp3",
       "sha256": "BC820BEC4A67820223CD2BA2E17361EC6A38A1C331880BF611921100506EC6E5",
       "duration": 16.74
+    },
+    {
+      "id": "eto-byl-nozh-v-spinu",
+      "name": "Это был нож в спину",
+      "author": "nixtand",
+      "tags": [],
+      "file": "sounds/eto-byl-nozh-v-spinu.mp3",
+      "sha256": "650F4A81EF155061F195E63FF05E7A99FD03732819C94982A607F063C81C3E6B",
+      "duration": 7.34
     }
   ]
 }
