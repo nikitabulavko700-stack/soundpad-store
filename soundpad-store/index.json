@@ -51,6 +51,15 @@
       "file": "sounds/eto-byl-nozh-v-spinu.mp3",
       "sha256": "650F4A81EF155061F195E63FF05E7A99FD03732819C94982A607F063C81C3E6B",
       "duration": 7.34
+    },
+    {
+      "id": "a-ty-pohozh-na-zhopu",
+      "name": "а ты похож на жопу",
+      "author": "nixtand",
+      "tags": [],
+      "file": "sounds/a-ty-pohozh-na-zhopu.mp3",
+      "sha256": "FE958806A478B954F00887E5B4C8BD6B4EEB2A7B1CED7CD5AB13B7988DE6CFDF",
+      "duration": 8.18
     }
   ]
 }
