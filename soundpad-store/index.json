@@ -1,0 +1,38 @@
+{
+  "sounds": [
+    {
+      "id": "ding",
+      "name": "Динь",
+      "author": "SoundPad",
+      "tags": [
+        "уведомление"
+      ],
+      "file": "sounds/ding.wav",
+      "sha256": "D7C7C635571F93E0CF9FCBF0F7900432D667083366742C4AD8AD9B213FBA5BBD",
+      "duration": 0.9
+    },
+    {
+      "id": "laser",
+      "name": "Лазер",
+      "author": "SoundPad",
+      "tags": [
+        "эффект"
+      ],
+      "file": "sounds/laser.wav",
+      "sha256": "95E04C7055C09D203EB4B314BBCD7DE2E8B77764D78AAAA86CC86FE0342A0E2C",
+      "duration": 0.35
+    },
+    {
+      "id": "boom",
+      "name": "Бум",
+      "author": "SoundPad",
+      "tags": [
+        "бас",
+        "эффект"
+      ],
+      "file": "sounds/boom.wav",
+      "sha256": "A6A4312F314E3D3EB6095DA17C6CC193DFC67D56A362E38558E7F910C2B6AEBF",
+      "duration": 0.8
+    }
+  ]
+}
